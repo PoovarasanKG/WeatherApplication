@@ -1,9 +1,13 @@
 # WeatherApplication
-weekly weather application..A movie tickets booking and management application using `Flutter` and `NestJS`.
+weekly weather application using `Swift` and `OpenAPI`.
 
 ## Features
 
--   Firebase authentication, socket.io.
+-   Developed a mobile app to check the weather of the user's current location.
+-   Utilized a public API to fetch and display details such as temperature, humidity, wind speed, and forecast.
+-   Implemented auto layouts to support various screen devices.
+-   Implemented location tracking to automatically detect the user's current location for weather updates.
+-   Created GitHub repository.
 
 ## Screenshots
 
